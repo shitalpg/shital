@@ -203,8 +203,6 @@ System.out.println("");
 }
 Q7. Program reverse the letter present in given string.
 =>
-Java program to reverse a string's words characters
-package com.howtodoinjava.example;
  
 import java.util.Scanner;
  
